@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "dist/marriageInvitation",
+    "public": "dist/invitationCards",
     "ignore": [
       "firebase.json",
       "**/.*",

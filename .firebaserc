@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "rashni-90766"
-  }
+    "default": "receptioninvite-62615",
+    "receptionInvite": "receptioninvite-62615",
+    "receptionRR": "receptioninvite-62615"
+  },
+  "targets": {},
+  "etags": {}
 }
